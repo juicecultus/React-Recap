@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/juicecultus/React-Recap/issues"
   },
-  "homepage": "https://github.com/juicecultus/React-Recap#readme"
+  "homepage": "https://github.com/juicecultus/React-Recap#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }
